@@ -10,7 +10,7 @@
  * The dataset is also provided
  
  ## Observation
- * A positive linear correlation graph was observed after plottng the number of hours studied and the student's performance.
+ * A positive linear correlation graph was observed after plotting the number of hours studied and the student's performance.
  * Some predictions were also performed using the test set as well as my own data to obtain the percentage scored.
  
  ## Contributors:
